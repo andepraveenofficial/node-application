@@ -4,4 +4,5 @@ GET http://localhost:5000/
 ### 02 Login
 GET http://localhost:5000/login
 
- 
+### 02 Github
+GET http://localhost:5000/github

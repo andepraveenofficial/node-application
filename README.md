@@ -14,5 +14,5 @@ when change the code, we need to restart the server, nodemon restart the server 
 
 
 ### Deployment
-* Digital Ocean
+* Render
     - store code in GITHUB
